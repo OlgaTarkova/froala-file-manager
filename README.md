@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://flmngr.com/"><img src="https://flmngr.com/img/Flmngr.png" alt="Flmngr" width="120" /></a>
+    <a href="https://flmngr.com/"><img src="https://flmngr.com/img/Flmngr.png" alt="Flmngr" width="90" /></a>
 </p>
 
-<h1>Froala file manager</h1>
+<h1 align="center">Froala file manager</h1>
 
 <p align="center">
-    <strong>Flmngr is Froala plugin for uploading and editing images and managing your media library. 30000+ free stock photos. 🔥</strong>
+    <strong>Flmngr is Froala plugin for managing your media library. 30000+ free stock photos. 🔥</strong>
 </p>
 
 <p align="center">
