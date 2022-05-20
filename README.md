@@ -1,13 +1,15 @@
-<h1 align="center">
-    <a href="https://flmngr.com/"><img src="https://flmngr.com/img/Flmngr.png" alt="Flmngr" width="120" /> Flmngr</a>
-</h1>
+<p align="center">
+    <a href="https://flmngr.com/"><img src="https://flmngr.com/img/Flmngr.png" alt="Flmngr" width="120" /></a>
+</p>
+
+<h1>Froala file manager</h1>
 
 <p align="center">
-    <strong>File Manager for Froala 🔥</strong>
+    <strong>Flmngr is Froala plugin for uploading and editing images and managing your media library. 30000+ free stock photos. 🔥</strong>
 </p>
 
 <p align="center">
-    <a href="https://flmngr.com/doc/install-froala-plugin/">Install</a> ∙ <a href="https://flmngr.com/doc/open-file-manager/">Docs</a> ∙ <a href="https://flmngr.com/api/">API</a> ∙ <a href="https://codepen.io/N1ED/pen/poNwPgo">Try Online</a>
+    <a href="https://flmngr.com/">Home page</a> ∙ <a href="https://flmngr.com/doc/install-froala-plugin/">Install</a> ∙ <a href="https://codepen.io/N1ED/pen/poNwPgo">Try Online</a>
 </p>
 
 ![File manager for Froala](https://n1ed.com/img/screenshots/docs/addons/file-manager/froala-flmngr.jpg)
